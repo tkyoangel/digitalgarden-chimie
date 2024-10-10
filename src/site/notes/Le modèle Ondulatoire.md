@@ -22,5 +22,6 @@ $$\mathcal{l} = 1 : \text{orbitale } p$$
 $$\mathcal{l} = 2 : \text{orbitale } d$$
 $$\mathcal{l} = 3 : \text{orbitale } f$$
 
-Ces 4 valeurs de l suffisent amplement pour décrire tous les éléments du tableau périodique
+Ces 4 valeurs de ***l*** permettent de décrire les sous-couches d'une couche électronique
 
+*(voir [[Organisation du nuage électronique\|Organisation du nuage électronique]])*
