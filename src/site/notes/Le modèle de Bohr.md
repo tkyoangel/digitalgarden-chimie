@@ -32,10 +32,11 @@ Ainsi, lorsque n augmente, les raies se rapprochent les unes des autres et tende
 ## Nombre quantique principal
 
 > [!NOTE] Nombre quantique principal
-> Il definit le niveau énergétique de l'atome (lié à l'orbite), il correspond à la valeur "n" sur les diagrammes de Grotrian, lorsque que n -> ∞ , l'électron est éjecté de l'atome (cas de l'hydrogène avec un seul électron)
+> Il definit le **niveau d'énergie principal** d'un électron dans un atome. Il est lié à la taille de l'orbitale et à l'énergie de l'électron. ***Plus n est grand, plus l'électron se situe loin du noyau, et plus son énergie est élevée.***
+> 
+> Aussi, chaque valeur de ***n*** correspond à une couche électronique, et chaque couche électronique peut contenir un certain nombre de sous-couches (définies par le nombre quantique secondaire ***l*** (voir [[Le modèle Ondulatoire#Nombre quantique secondaire\|Le modèle Ondulatoire#Nombre quantique secondaire]]))
 
 voir [[Diagramme de Grotrian\|Diagramme de Grotrian]] pour la présentation des résultats
-
 
 ## Limites du modèle de Bohr
 
